@@ -30,12 +30,8 @@ The End-to-End Chatbot is designed to help users interact with a machine-learnin
        cd End-to-End-Chatbot-ML
    ```
 
-2. Install Dependencies:
-
-   ```bash
-       pip install -r requirements.txt
-   ```
-
+2. Install Dependencies.
+   
 3. Set up the environment:
 
 - Create a .env file for environment variables like API keys, etc
