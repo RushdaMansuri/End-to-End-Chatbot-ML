@@ -1,6 +1,6 @@
 # End-to-End Chatbot with Machine Learning
 
-This repository contains an end-to-end implementation of a chatbot using Machine Learning. The project leverages natural language processing (NLP) techniques and machine learning algorithms to create an interactive chatbot capable of responding to user queries in real-time.
+This repository contains an end-to-end implementation of a chatbot using Machine Learning. The project leverages Natural Language Processing (NLP) techniques and machine learning algorithms to create an interactive chatbot capable of responding to user queries in real-time.
 
 ## Table of Contents
 
